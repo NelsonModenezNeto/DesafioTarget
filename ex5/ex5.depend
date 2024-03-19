@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710858671 source:c:\users\nelso\onedrive\documentos\github\desafio target\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
